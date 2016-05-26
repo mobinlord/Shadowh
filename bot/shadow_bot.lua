@@ -247,19 +247,19 @@ function create_config( )
         "Fantasy_Writer",
         "Get_Plugins"
     },
-    sudo_users = {175636120},--Sudo users
+    sudo_users = {175636120,219339258,176972874,1165472,172970170},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[This Is Signal
-An advanced administration bot based on TG-CLI written in Lua
+    about_text = [[💢shadow helper v1
+Writed in tg-cli
+My admins⤵⤵
+💢@redteam_01_13 [founder&Developer]💢
+💢@shadowteam_admin [Developer]💢
+💢@fuck_this_life_W [Developer]💢
+💢@Xx_SilenT_xX [Manager]💢
+💢@shadowteam_02 [Sudo]💢
+Our channel👇👇
 
-Open source soon...
-
-@ThisIsPouria [Founder]
-
-Our channels
-@Signal_ch
-
-]],
+@Shadowking_CH]],
     help_text_realm = [[
 Realm Commands:
 
